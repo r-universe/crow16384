@@ -11,3 +11,6 @@
 [submodule "ksformat"]
 	path = ksformat
 	url = https://github.com/crow16384/ksformat
+[submodule "kstools"]
+	path = kstools
+	url = https://github.com/crow16384/kstools
